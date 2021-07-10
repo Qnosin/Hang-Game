@@ -1,0 +1,10 @@
+@import "mixins";
+.header {
+    width: 100%;
+    text-align: center;
+    color: #fff;
+    background-color: #95958f;
+    font-size: 0.8rem;
+    height: 15vh;
+    @include d-flex-center;
+}
