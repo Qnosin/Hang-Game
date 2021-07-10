@@ -1,2 +1,2 @@
 # Hang-Game
-Hang game created with javascript
+Hang game created with javascript not complete!
